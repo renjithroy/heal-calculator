@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: url('../imgs/bg.svg'), url('../imgs/bg-light.svg');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+}
+
+.custom-shape-divider-bottom-1676046223 {
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1676046223 svg {
+    position: relative;
+    display: block;
+    width: calc(150% + 1.3px);
+    height: 159px;
+}
+
+.custom-shape-divider-bottom-1676046223 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.title-logo{
+    font-weight: 700;
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.logo-end{
+    color: #ffffff;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+form{
+    color: #000000;
+    background-color: #fff;
+    padding: 30px;
+    /* height: 400px; */
+}
+
+input{
+    margin: auto;
+}
+
+button{
+    background-color: #000000 !important;
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+.errorMsg{
+    color: rgb(216, 0, 0);
+}
