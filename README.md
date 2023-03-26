@@ -25,4 +25,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 Contact  
 
-If you have any questions or comments about this project, please feel free to contact us at renjithroy06@gmail.com
+If you have any questions or comments about this project, please feel free to contact me at renjithroy06@gmail.com
